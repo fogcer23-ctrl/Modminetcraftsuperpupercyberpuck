@@ -1,2 +1,7 @@
 a9e3f782aace66efe3b0ad1e1af8aac68b852e3e02d1035033b5ec0314aab9c3  cybernetic_augmentation-0.1.0.jar
 f616d8d5390b8349ef0c43e0e00ebd95e39cab289e8eb053cc8fd9c85d5a27db  cybernetic_augmentation-0.1.0-download.zip
+a2e51f135bf56bb97828db01bcf6ce31788f1139cd052862c36b31f1f00533fa  cybernetic_augmentation-0.2.0.jar
+f9eaf8bccf13a2891ff99128884b9208463d1954454b8ce519c69ef86d976436  cybernetic_augmentation-0.2.0-download.zip
+3a8d68338e7ef39fdac868fb351744095e0da18f6d74b31138129d1f1e038df3  preview-0.2.0-compact.png
+e01e4e414038f89412031f0a870a17d214f5c6df0cb2f2c32aa7f7f9bc0c47d9  preview-0.2.0-hud.png
+d95ff2493ed32c4985aea088e8ea40e166c80ffb1ba7d55383fb90131860971a  preview-0.2.0.png
