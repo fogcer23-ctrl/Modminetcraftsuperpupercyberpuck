@@ -1,0 +1,2 @@
+a9e3f782aace66efe3b0ad1e1af8aac68b852e3e02d1035033b5ec0314aab9c3  cybernetic_augmentation-0.1.0.jar
+f616d8d5390b8349ef0c43e0e00ebd95e39cab289e8eb053cc8fd9c85d5a27db  cybernetic_augmentation-0.1.0-download.zip
